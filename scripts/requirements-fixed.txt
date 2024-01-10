@@ -36,7 +36,7 @@ gcovr==6.0                # via -r zephyr/scripts/requirements-build-test.txt
 gitdb==4.0.10             # via gitpython
 gitlint==0.18.0           # via -r nrf/scripts/requirements-ci.txt, -r zephyr/scripts/requirements-extras.txt
 gitlint-core==0.18.0      # via gitlint, gitlint-core
-gitpython==3.1.37         # via -r nrf/scripts/requirements-ci.txt
+gitpython==3.1.41         # via -r nrf/scripts/requirements-ci.txt
 graphviz==0.20.1          # via -r zephyr/scripts/requirements-extras.txt
 grpcio==1.58.0            # via grpcio-tools
 grpcio-tools==1.58.0      # via -r zephyr/scripts/requirements-extras.txt
